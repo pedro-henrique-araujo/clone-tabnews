@@ -1,20 +1,30 @@
 function Home() {
-    return <p>
-            Minha irmã, riso constante a brilhar,
-            Com teu jeito único de encantar,
-            Cada dia contigo é um festival,
-            Alegria e amor em um astral.
+    return <>
+        <p>
 
-            Tuas risadas são como música no ar,
-            Contagiam todos, não dá pra evitar,
-            Até as estrelas param para escutar,
+            Minha irmã, riso constante a brilhar,<br />;
+            Com teu jeito único de encantar,<br />
+            Cada dia contigo é um festival,<br />
+            Alegria e amor em um astral.<br />
+        </p>
+
+        <p>
+            Tuas risadas são como música no ar,<br />
+            Contagiam todos, não dá pra evitar,<br />
+            Até as estrelas param para escutar,<br />
             Minha irmã, és alegria a se multiplicar.
 
-            Então que a vida siga nesse ritmo sem fim,
-            Com tuas risadas a iluminar o caminho,
-            Um presente tão bom quanto um docinho,
-            Minha irmã, és alegria que não tem fim!
-    </p>;
+        </p>
+
+
+        <p>
+            Então que a vida siga nesse ritmo sem fim,<br />
+            Com tuas risadas a iluminar o caminho,<br />
+            Um presente tão bom quanto um docinho,<br />
+            Minha irmã, és alegria que não tem fim!<br />
+        </p>
+
+    </>;
 }
 
 export default Home;
