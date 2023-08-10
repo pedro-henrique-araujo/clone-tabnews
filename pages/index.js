@@ -1,11 +1,11 @@
 function Home() {
-    return <>
+    return <div style="font-family: Arial">
         <p>
 
-            Minha irmã, riso constante a brilhar,<br />;
+            Minha irmã, riso constante a brilhar,<br />
             Com teu jeito único de encantar,<br />
             Cada dia contigo é um festival,<br />
-            Alegria e amor em um astral.<br />
+            Alegria e amor em um astral.
         </p>
 
         <p>
@@ -21,10 +21,10 @@ function Home() {
             Então que a vida siga nesse ritmo sem fim,<br />
             Com tuas risadas a iluminar o caminho,<br />
             Um presente tão bom quanto um docinho,<br />
-            Minha irmã, és alegria que não tem fim!<br />
+            Minha irmã, és alegria que não tem fim!
         </p>
 
-    </>;
+    </div>;
 }
 
 export default Home;
