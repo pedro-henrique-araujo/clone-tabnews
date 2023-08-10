@@ -1,5 +1,5 @@
 function Home() {
-    return (<div style="font-family: Arial">
+    return (<div>
         <p>
 
             Minha irmã, riso constante a brilhar,<br />
